@@ -1,0 +1,7 @@
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\bin\Debug\project_with_moshi_part1.exe.config
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\bin\Debug\project_with_moshi_part1.exe
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\bin\Debug\project_with_moshi_part1.pdb
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\obj\Debug\project_with_moshi_part1.csproj.AssemblyReference.cache
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\obj\Debug\project_with_moshi_part1.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\obj\Debug\project_with_moshi_part1.exe
+C:\Users\Maciek\source\repos\project_with_moshi_part1\project_with_moshi_part1\obj\Debug\project_with_moshi_part1.pdb
